@@ -211,7 +211,7 @@ global-electricity-access-analysis/
   author={Tufail, Muhammad Aammar and Zahid, Hammad},
   year={2024},
   publisher={Kaggle},
-  url={https://www.kaggle.com/datasets/muhammadaammartufail/global-electricity-access-and-economic-indicators}
+  url={https://www.kaggle.com/code/hammadansari7/global-electricity-access-economic-indicators}
 }
 ## ⭐ Support
 
